@@ -20,6 +20,6 @@ The training metrics can be seen below:
 
 Inference on new data can be seen below:
 
-<img src="inference.jpg" width="100%"/>
+<img src="inference.png" width="100%"/>
 
 
